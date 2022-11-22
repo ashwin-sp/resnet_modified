@@ -18,6 +18,6 @@ Instructions for running:
 
 1. You can run the main mini_project.ipynb file for all the 6 configurations discussed above trained for 40 epochs. 
 2. You can use the models from the models folder to save time running the visualization and evaluation section. 
-3. You can checkout our experiments folder for other configuration changes not included in the main notebook. 
-4. You can refer the output folder for all the configuration training runs snapshot. 
+3. You can checkout our experiments folder for other configuration change experiments not included in the main notebook. 
+4. You can refer the output folder for all the main configuration training runs snapshot. 
 5. configuration2_100epochs.ipynb has the followup run for configuration 2 (our best model) with 100 epochs. 
