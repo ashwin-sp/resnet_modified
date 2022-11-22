@@ -1,5 +1,7 @@
 # resnet_modified
-Modifying ResNet18 to give higher accuracy for &lt;5M parameters
+Modifying ResNet18 from the following repository to give higher accuracy for &lt;5M parameters
+
+https://github.com/kuangliu/pytorch-cifar
 
 Our experiments for 40 epochs in the main file include:
 
