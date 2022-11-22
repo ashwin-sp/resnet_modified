@@ -13,3 +13,11 @@ Our experiments for 40 epochs in the main file include:
 - Same configuration as configuration 4 but changing number of channels in the initial residual layer
 
 We also experimented with bottleneck, with more epochs, using SGD as optimizer instead of Adam and auto-augment policy for image transformation which can be found in our experiments folder. 
+
+Instructions for running: 
+
+1. You can run the main mini_project.ipynb file for all the 6 configurations discussed above trained for 40 epochs. 
+2. You can use the models from the models folder to save time running the visualization and evaluation section. 
+3. You can checkout our experiments folder for other configuration changes not included in the main notebook. 
+4. You can refer the output folder for all the configuration training runs snapshot. 
+5. configuration2_100epochs.ipynb has the followup run for configuration 2 (our best model) with 100 epochs. 
